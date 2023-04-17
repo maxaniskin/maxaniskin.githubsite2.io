@@ -455,3 +455,10 @@ font-size: 28vw;text-align: left;
   background:#cc7d05;
 }
  .leng h2{position: fixed;top: 7%;right: 15%;z-index: 99;font-size: 22px;color:#ffff}
+ @media (max-width:800px){
+	.leng h2{bottom:1%;right: 50%;
+	}
+	.footer-social a{width: 25px;
+	height: 25px;}
+	.footer-social{bottom: 50px;left: 5%;}
+ }
